@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Music APP</string>
+    <string name="musician_placeholder">Musician's Name</string>
+    <string name="album_placeholder">Album</string>
+    <string name="song_name_placeholder">Song name</string>
+
+    <string-array name="musician_names">
+        <item>Usher</item>
+        <item>Usher</item>
+        <item>Usher</item>
+        <item>Linkin Park</item>
+        <item>Linkin Park</item>
+        <item>Linkin Park</item>
+        <item>Alan Walker</item>
+        <item>Alan Walker</item>
+        <item>Alan Walker</item>
+    </string-array>
+
+    <string-array name="album_name">
+        <item>Looking 4 Myself</item>
+        <item>Here I Stand</item>
+        <item>Confessions</item>
+        <item>Xero</item>
+        <item>Hybrid Theory</item>
+        <item>Meteora</item>
+        <item>Single</item>
+        <item>Single</item>
+        <item>Single</item>
+    </string-array>
+
+    <string-array name="song_name">
+        <item>2nd Round</item>
+        <item>Appetite</item>
+        <item>Bad Girl</item>
+        <item>Reading My Eyes</item>
+        <item>High Voltage</item>
+        <item>Numb</item>
+        <item>Faded</item>
+        <item>All Falls Down</item>
+        <item>Alone</item>
+    </string-array>
+
+</resources>
